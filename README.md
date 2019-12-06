@@ -1,5 +1,6 @@
 # GameOfLife
 Game of life created with several GUIs
+This project is written in Java
 Assumptions:
 I allowed what I felt was a resonable amount of options in the starting GUI
 I was unsure of whether the project would need to allow for specific starting boards to be input, so I included two methods of inputting them, through a file and through a GUI, as well as a method to randomly generate boards.
